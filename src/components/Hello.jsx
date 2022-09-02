@@ -84,7 +84,7 @@ function Hello() {
 			<span className="dark:text-gray-300 text-gray-800 hover:underline transition duration-300 ease-in-out outline-none focus:outline-none focus:rin">
               <a href="https://www.google.com/maps/place/Australia/" target={"_blank"} rel="noreferrer">Australia</a>
             </span>
-			. I'm currently learning loads of advanced technologies to further enhance my development skills. If I'm not building, I'm likely travelling the world, drinking coffee, or bike riding around my neighbourhood. Travelling the world and visiting different cultures has been in my blood since younger ages. Behind the scenes, I'm working on projects used in our everyday lives to make an impact, most of which are being worked on right now. If you wish to contact me feel free to contact me via 
+			. I'm currently learning loads of advanced technologies to further enhance my development skills. If I'm not building, I'm likely travelling the world, drinking coffee, or bike riding around my neighbourhood. Travelling the world and visiting different cultures has been a passion of mine for years. Behind the scenes, I'm working on projects used in our everyday lives to make an impact, most of which are being worked on right now. If you wish to contact me feel free to contact me via 
 			{" "} 
 			<span className="dark:text-gray-300 text-gray-800 hover:underline transition duration-300 ease-in-out outline-none focus:outline-none focus:rin">
               <a href="mailto:hi@vert.codes" target={"_blank"} rel="noreferrer">email</a>
