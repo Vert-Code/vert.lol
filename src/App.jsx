@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, } from "react-router-dom";
 import Hello from './components/Hello'
 //import Projects from './components/Projects';
-//import Footer from './components/Footer'
 import NotFound from './pages/NotFound'
 
 function App() {
